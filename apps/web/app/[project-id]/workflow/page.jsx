@@ -41,12 +41,10 @@ const Page = () => {
 
   return (
     <div>
-      <header>BPMN.io</header>
-
       <div
         id="bpmn-container"
         style={{
-          border: "1px solid #000000",
+         //  border: "1px solid #000000",
           height: "90vh",
           width: "90vw",
           margin: "auto"

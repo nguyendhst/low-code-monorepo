@@ -21,7 +21,7 @@ export default function Layout({
    const router = useRouter();
 
    const [authState] = useAuth();
-   // const authState = AuthState.LOGGED_IN;
+    //const authState = AuthState.LOGGED_IN;
 
    const navigations = [
       {
